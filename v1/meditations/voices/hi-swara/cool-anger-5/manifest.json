@@ -1,0 +1,160 @@
+{
+  "id": "cool-anger-5",
+  "voiceId": "hi-swara",
+  "edgeVoice": "hi-IN-SwaraNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 133,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "स्वागत।",
+      "file": "c000.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 1,
+      "text": "अगर गुस्सा या चिड़चिड़ापन है तो आपका यहां स्वागत है।",
+      "file": "c001.ogg",
+      "durationSec": 8.472
+    },
+    {
+      "index": 2,
+      "text": "आपको इसे गायब करने की आवश्यकता नहीं है.",
+      "file": "c002.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 3,
+      "text": "बस इसे और अधिक जगह दें.",
+      "file": "c003.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 4,
+      "text": "पैरों को महसूस करो.",
+      "file": "c004.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 5,
+      "text": "[विराम:25]",
+      "file": "c005.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 6,
+      "text": "चार तक श्वास लें।",
+      "file": "c006.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 7,
+      "text": "छह या आठ तक सांस छोड़ें।",
+      "file": "c007.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 8,
+      "text": "लम्बी साँसें शरीर को ठंडा कर देती हैं।",
+      "file": "c008.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 9,
+      "text": "[विराम:33]",
+      "file": "c009.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 10,
+      "text": "दोबारा।",
+      "file": "c010.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 11,
+      "text": "[विराम:33]",
+      "file": "c011.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 12,
+      "text": "बिना कहानी खिलाए गर्मी का नाम बताइए.",
+      "file": "c012.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 13,
+      "text": "सीने में गर्मी. तंग जबड़ा. तेज दिमाग.",
+      "file": "c013.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 14,
+      "text": "[विराम:41]",
+      "file": "c014.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 15,
+      "text": "हाथों को नरम करें.",
+      "file": "c015.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 16,
+      "text": "कंधे गिरा दो.",
+      "file": "c016.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 17,
+      "text": "[विराम:33]",
+      "file": "c017.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 18,
+      "text": "आप बाद में किसी स्पष्ट स्थान से उत्तर दे सकते हैं.",
+      "file": "c018.ogg",
+      "durationSec": 7.944
+    },
+    {
+      "index": 19,
+      "text": "अभी के लिए, साँस लो.",
+      "file": "c019.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 20,
+      "text": "[विराम:45]",
+      "file": "c020.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 21,
+      "text": "एक और आसान साँस लें.",
+      "file": "c021.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 22,
+      "text": "उँगलियाँ हिलाओ.",
+      "file": "c022.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 23,
+      "text": "जब आप तैयार हों तो आँखें खोलें।",
+      "file": "c023.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 24,
+      "text": "इसमें से थोड़ा सा अपने साथ ले जाओ.",
+      "file": "c024.ogg",
+      "durationSec": 6.504
+    }
+  ]
+}

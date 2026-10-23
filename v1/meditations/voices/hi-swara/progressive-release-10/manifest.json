@@ -1,0 +1,454 @@
+{
+  "id": "progressive-release-10",
+  "voiceId": "hi-swara",
+  "edgeVoice": "hi-IN-SwaraNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 390,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "स्वागत।",
+      "file": "c000.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 1,
+      "text": "यह अभ्यास हल्के तनाव और मुक्ति का उपयोग करता है।",
+      "file": "c001.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 2,
+      "text": "यदि आप कर सकते हैं तो लेट जाएं, या सहारा लेकर बैठें।",
+      "file": "c002.ogg",
+      "durationSec": 9.816
+    },
+    {
+      "index": 3,
+      "text": "अगर सुरक्षित महसूस हो तो आंखें बंद कर लें।",
+      "file": "c003.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 4,
+      "text": "जबरदस्ती करने जैसी कोई बात नहीं. आरामदायक दायरे में रहें.",
+      "file": "c004.ogg",
+      "durationSec": 11.256
+    },
+    {
+      "index": 5,
+      "text": "धीरे-धीरे सांस अंदर लें.",
+      "file": "c005.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 6,
+      "text": "और एक लंबी सांस छोड़ें.",
+      "file": "c006.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 7,
+      "text": "[विराम:19]",
+      "file": "c007.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 8,
+      "text": "ध्यान दोनों पैरों पर लाएँ।",
+      "file": "c008.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 9,
+      "text": "पंजों को मोड़ें और पैरों को कस लें।",
+      "file": "c009.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 10,
+      "text": "पकड़ना।",
+      "file": "c010.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 11,
+      "text": "[विराम:19]",
+      "file": "c011.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 12,
+      "text": "मुक्त करना।",
+      "file": "c012.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 13,
+      "text": "फर्क महसूस करो।",
+      "file": "c013.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 14,
+      "text": "[विराम:21]",
+      "file": "c014.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 15,
+      "text": "पिंडलियों को कस लें.",
+      "file": "c015.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 16,
+      "text": "पकड़ना।",
+      "file": "c016.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 17,
+      "text": "[विराम:19]",
+      "file": "c017.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 18,
+      "text": "मुक्त करना।",
+      "file": "c018.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 19,
+      "text": "निचले पैरों को भारी होने दें।",
+      "file": "c019.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 20,
+      "text": "[विराम:21]",
+      "file": "c020.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 21,
+      "text": "जाँघों को कस लें.",
+      "file": "c021.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 22,
+      "text": "पकड़ना।",
+      "file": "c022.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 23,
+      "text": "[विराम:19]",
+      "file": "c023.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 24,
+      "text": "मुक्त करना।",
+      "file": "c024.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 25,
+      "text": "मुलायम पैर. मुलायम कूल्हे.",
+      "file": "c025.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 26,
+      "text": "[विराम:21]",
+      "file": "c026.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 27,
+      "text": "धीरे से पेट को अंदर खींचें।",
+      "file": "c027.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 28,
+      "text": "बिना तनाव के पकड़ें.",
+      "file": "c028.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 29,
+      "text": "[विराम:19]",
+      "file": "c029.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 30,
+      "text": "मुक्त करना।",
+      "file": "c030.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 31,
+      "text": "सांस के साथ पेट को स्वतंत्र रूप से चलने दें।",
+      "file": "c031.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 32,
+      "text": "[विराम:21]",
+      "file": "c032.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 33,
+      "text": "नरम मुट्ठियाँ बनाओ. हाथों और अग्रबाहुओं को कस लें।",
+      "file": "c033.ogg",
+      "durationSec": 10.032
+    },
+    {
+      "index": 34,
+      "text": "पकड़ना।",
+      "file": "c034.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 35,
+      "text": "[विराम:19]",
+      "file": "c035.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 36,
+      "text": "मुक्त करना।",
+      "file": "c036.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 37,
+      "text": "उँगलियाँ खुलीं. भुजाएँ भारी.",
+      "file": "c037.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 38,
+      "text": "[विराम:21]",
+      "file": "c038.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 39,
+      "text": "कंधों को कानों की ओर ऊपर उठाएं।",
+      "file": "c039.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 40,
+      "text": "पकड़ना।",
+      "file": "c040.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 41,
+      "text": "[विराम:19]",
+      "file": "c041.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 42,
+      "text": "उन्हें ड्रॉप।",
+      "file": "c042.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 43,
+      "text": "पीठ के ऊपरी हिस्से में जगह महसूस करें।",
+      "file": "c043.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 44,
+      "text": "[विराम:21]",
+      "file": "c044.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 45,
+      "text": "चेहरे को धीरे से मसलें। आंखें, भौंह, जबड़ा.",
+      "file": "c045.ogg",
+      "durationSec": 10.728
+    },
+    {
+      "index": 46,
+      "text": "पकड़ना।",
+      "file": "c046.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 47,
+      "text": "[विराम:19]",
+      "file": "c047.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 48,
+      "text": "मुक्त करना।",
+      "file": "c048.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 49,
+      "text": "माथा चिकना. जबड़ा मुलायम. जीभ को आराम.",
+      "file": "c049.ogg",
+      "durationSec": 11.088
+    },
+    {
+      "index": 50,
+      "text": "[विराम:23]",
+      "file": "c050.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 51,
+      "text": "अब पूरे शरीर को एक की तरह हल्का सा तनाव दें।",
+      "file": "c051.ogg",
+      "durationSec": 8.136
+    },
+    {
+      "index": 52,
+      "text": "एक सांस के लिए रुकें.",
+      "file": "c052.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 53,
+      "text": "[विराम:35]",
+      "file": "c053.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 54,
+      "text": "सब कुछ जाने दो.",
+      "file": "c054.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 55,
+      "text": "[विराम:8]",
+      "file": "c055.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 56,
+      "text": "एक बार फिर, पूरे शरीर पर हल्का दबाव।",
+      "file": "c056.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 57,
+      "text": "थोड़ी देर रुकें.",
+      "file": "c057.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 58,
+      "text": "[विराम:5]",
+      "file": "c058.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 59,
+      "text": "और पूरी तरह से मुक्त कर दें.",
+      "file": "c059.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 60,
+      "text": "अब और भारी. अब नरम.",
+      "file": "c060.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 61,
+      "text": "महसूस करें कि शरीर आपके नीचे की सतह पर स्थिर हो गया है।",
+      "file": "c061.ogg",
+      "durationSec": 9.624
+    },
+    {
+      "index": 62,
+      "text": "[विराम:39]",
+      "file": "c062.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 63,
+      "text": "यहीं आराम करो.",
+      "file": "c063.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 64,
+      "text": "शांत सांस लें. शरीर मुलायम.",
+      "file": "c064.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 65,
+      "text": "यदि विचार वापस आते हैं, तो यह ठीक है।",
+      "file": "c065.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 66,
+      "text": "मुक्ति की भावना पर लौटें।",
+      "file": "c066.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 67,
+      "text": "[विराम:50]",
+      "file": "c067.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 68,
+      "text": "नरम रहो.",
+      "file": "c068.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 69,
+      "text": "[विराम:40]",
+      "file": "c069.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 70,
+      "text": "उँगलियाँ और पैर की उँगलियाँ हिलाएँ।",
+      "file": "c070.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 71,
+      "text": "एक और आसान साँस लें.",
+      "file": "c071.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 72,
+      "text": "तैयार होने पर आँखें खोलें।",
+      "file": "c072.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 73,
+      "text": "इस कोमलता को अपने साथ रखें.",
+      "file": "c073.ogg",
+      "durationSec": 5.808
+    }
+  ]
+}

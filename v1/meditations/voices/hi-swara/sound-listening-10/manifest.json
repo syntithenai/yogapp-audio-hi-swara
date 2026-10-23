@@ -1,0 +1,250 @@
+{
+  "id": "sound-listening-10",
+  "voiceId": "hi-swara",
+  "edgeVoice": "hi-IN-SwaraNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 214,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "स्वागत।",
+      "file": "c000.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 1,
+      "text": "आने के लिए समय निकालें.",
+      "file": "c001.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 2,
+      "text": "सहारा लेकर बैठें या लेटें।",
+      "file": "c002.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 3,
+      "text": "अगर सुरक्षित महसूस हो तो आंखें बंद कर लें।",
+      "file": "c003.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 4,
+      "text": "जमीन के साथ संपर्क महसूस करें.",
+      "file": "c004.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 5,
+      "text": "धीमी गति से सांस अंदर लें.",
+      "file": "c005.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 6,
+      "text": "लंबी सांस छोड़ें.",
+      "file": "c006.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 7,
+      "text": "[विराम:23]",
+      "file": "c007.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 8,
+      "text": "दोबारा।",
+      "file": "c008.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 9,
+      "text": "[विराम:23]",
+      "file": "c009.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 10,
+      "text": "कंधों को झुक जाने दो.",
+      "file": "c010.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 11,
+      "text": "पेट को नरम होने दें.",
+      "file": "c011.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 12,
+      "text": "[विराम:29]",
+      "file": "c012.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 13,
+      "text": "कान खोलो.",
+      "file": "c013.ogg",
+      "durationSec": 3.408
+    },
+    {
+      "index": 14,
+      "text": "निकटतम ध्वनि पर ध्यान दें.",
+      "file": "c014.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 15,
+      "text": "[विराम:29]",
+      "file": "c015.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 16,
+      "text": "सबसे दूर की ध्वनि पर ध्यान दें जिसे आप सुन सकते हैं।",
+      "file": "c016.ogg",
+      "durationSec": 9.408
+    },
+    {
+      "index": 17,
+      "text": "[विराम:29]",
+      "file": "c017.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 18,
+      "text": "ध्वनियों के बीच मौन पर ध्यान दें।",
+      "file": "c018.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 19,
+      "text": "[विराम:35]",
+      "file": "c019.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 20,
+      "text": "ध्वनियाँ उठती हैं और गुज़र जाती हैं। आपको उनका नाम बताने की जरूरत नहीं है.",
+      "file": "c020.ogg",
+      "durationSec": 13.224
+    },
+    {
+      "index": 21,
+      "text": "सुनना सुनता है.",
+      "file": "c021.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 22,
+      "text": "[विराम:47]",
+      "file": "c022.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 23,
+      "text": "जब मन भटक जाए तो सुनने की ओर लौट आएं।",
+      "file": "c023.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 24,
+      "text": "[विराम:35]",
+      "file": "c024.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 25,
+      "text": "अपनी खुद की सांसों की आवाज को शामिल करें।",
+      "file": "c025.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 26,
+      "text": "[विराम:35]",
+      "file": "c026.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 27,
+      "text": "संपूर्ण ध्वनि परिदृश्य में विश्राम करें.",
+      "file": "c027.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 28,
+      "text": "कंपन का एक जीवित क्षेत्र.",
+      "file": "c028.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 29,
+      "text": "[विराम:90]",
+      "file": "c029.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 30,
+      "text": "सुनने में कुछ भी हल नहीं होता।",
+      "file": "c030.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 31,
+      "text": "[विराम:70]",
+      "file": "c031.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 32,
+      "text": "[विराम:35]",
+      "file": "c032.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 33,
+      "text": "श्वास को गहरा करना शुरू करें।",
+      "file": "c033.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 34,
+      "text": "यहीं आराम करो.",
+      "file": "c034.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 35,
+      "text": "[विराम:27]",
+      "file": "c035.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 36,
+      "text": "कमरे को फिर से महसूस करो.",
+      "file": "c036.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 37,
+      "text": "उँगलियाँ और पैर की उँगलियाँ हिलाएँ।",
+      "file": "c037.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 38,
+      "text": "तैयार होने पर आँखें खोलें।",
+      "file": "c038.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 39,
+      "text": "आगे जो आता है उसमें धीरे-धीरे आगे बढ़ें।",
+      "file": "c039.ogg",
+      "durationSec": 7.296
+    }
+  ]
+}

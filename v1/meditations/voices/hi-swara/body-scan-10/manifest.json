@@ -1,0 +1,274 @@
+{
+  "id": "body-scan-10",
+  "voiceId": "hi-swara",
+  "edgeVoice": "hi-IN-SwaraNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 266,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "स्वागत।",
+      "file": "c000.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 1,
+      "text": "आने के लिए समय निकालें.",
+      "file": "c001.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 2,
+      "text": "सहारा लेकर बैठें या लेटें।",
+      "file": "c002.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 3,
+      "text": "अगर सुरक्षित महसूस हो तो आंखें बंद कर लें।",
+      "file": "c003.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 4,
+      "text": "जमीन के साथ संपर्क महसूस करें.",
+      "file": "c004.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 5,
+      "text": "धीमी गति से सांस अंदर लें.",
+      "file": "c005.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 6,
+      "text": "लंबी सांस छोड़ें.",
+      "file": "c006.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 7,
+      "text": "[विराम:21]",
+      "file": "c007.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 8,
+      "text": "दोबारा।",
+      "file": "c008.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 9,
+      "text": "[विराम:21]",
+      "file": "c009.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 10,
+      "text": "कंधों को झुक जाने दो.",
+      "file": "c010.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 11,
+      "text": "पेट को नरम होने दें.",
+      "file": "c011.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 12,
+      "text": "[विराम:27]",
+      "file": "c012.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 13,
+      "text": "सिर के शीर्ष से शुरू करें.",
+      "file": "c013.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 14,
+      "text": "संवेदना, या उसकी कमी पर ध्यान दें।",
+      "file": "c014.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 15,
+      "text": "[विराम:27]",
+      "file": "c015.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 16,
+      "text": "माथा। आँखें। गाल. जबड़ा।",
+      "file": "c016.ogg",
+      "durationSec": 10.8
+    },
+    {
+      "index": 17,
+      "text": "चेहरे को थोड़ा सा पिघलने दीजिए.",
+      "file": "c017.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 18,
+      "text": "[विराम:27]",
+      "file": "c018.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 19,
+      "text": "गला। गरदन। कंधे.",
+      "file": "c019.ogg",
+      "durationSec": 8.136
+    },
+    {
+      "index": 20,
+      "text": "कंधों को नीचे आने के लिए आमंत्रित करें।",
+      "file": "c020.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 21,
+      "text": "[विराम:32]",
+      "file": "c021.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 22,
+      "text": "हथियार. कोहनी. कलाई. हाथ. उँगलियाँ.",
+      "file": "c022.ogg",
+      "durationSec": 13.848
+    },
+    {
+      "index": 23,
+      "text": "[विराम:32]",
+      "file": "c023.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 24,
+      "text": "छाती का उठना और गिरना।",
+      "file": "c024.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 25,
+      "text": "ह्रदय स्थान कोमल.",
+      "file": "c025.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 26,
+      "text": "[विराम:27]",
+      "file": "c026.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 27,
+      "text": "पेट। पीठ के निचले हिस्से. नितंब।",
+      "file": "c027.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 28,
+      "text": "[विराम:32]",
+      "file": "c028.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 29,
+      "text": "जांघें. घुटने. बछड़े। टखने. पैर। पैर की उँगलियाँ।",
+      "file": "c029.ogg",
+      "durationSec": 17.28
+    },
+    {
+      "index": 30,
+      "text": "[विराम:38]",
+      "file": "c030.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 31,
+      "text": "पूरे शरीर को एक क्षेत्र के रूप में महसूस करें।",
+      "file": "c031.ogg",
+      "durationSec": 7.848
+    },
+    {
+      "index": 32,
+      "text": "इसके माध्यम से सांस चल रही है।",
+      "file": "c032.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 33,
+      "text": "[विराम:54]",
+      "file": "c033.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 34,
+      "text": "यदि कोई तनावपूर्ण स्थान रह गया हो तो वहां सांस छोड़ें।",
+      "file": "c034.ogg",
+      "durationSec": 8.904
+    },
+    {
+      "index": 35,
+      "text": "[विराम:43]",
+      "file": "c035.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 36,
+      "text": "पूरे शरीर की जागरूकता में आराम करें।",
+      "file": "c036.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 37,
+      "text": "[विराम:81]",
+      "file": "c037.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 38,
+      "text": "[विराम:32]",
+      "file": "c038.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 39,
+      "text": "श्वास को गहरा करना शुरू करें।",
+      "file": "c039.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 40,
+      "text": "कमरे को फिर से महसूस करो.",
+      "file": "c040.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 41,
+      "text": "उँगलियाँ और पैर की उँगलियाँ हिलाएँ।",
+      "file": "c041.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 42,
+      "text": "तैयार होने पर आँखें खोलें।",
+      "file": "c042.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 43,
+      "text": "आगे जो आता है उसमें धीरे-धीरे आगे बढ़ें।",
+      "file": "c043.ogg",
+      "durationSec": 7.296
+    }
+  ]
+}

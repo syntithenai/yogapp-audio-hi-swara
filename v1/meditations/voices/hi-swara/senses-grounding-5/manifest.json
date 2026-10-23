@@ -1,0 +1,166 @@
+{
+  "id": "senses-grounding-5",
+  "voiceId": "hi-swara",
+  "edgeVoice": "hi-IN-SwaraNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 171,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "स्वागत।",
+      "file": "c000.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 1,
+      "text": "यदि आप बिखरा हुआ या सक्रिय महसूस करते हैं, तो यह अभ्यास मदद कर सकता है।",
+      "file": "c001.ogg",
+      "durationSec": 11.592
+    },
+    {
+      "index": 2,
+      "text": "अगर यह सुरक्षित लगता है तो अभी आंखें खुली रखें।",
+      "file": "c002.ogg",
+      "durationSec": 8.544
+    },
+    {
+      "index": 3,
+      "text": "दोनों पैरों को फर्श पर टिकाएं।",
+      "file": "c003.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 4,
+      "text": "[विराम:17]",
+      "file": "c004.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 5,
+      "text": "पाँच चीज़ों के नाम बताइए जिन्हें आप देख सकते हैं।",
+      "file": "c005.ogg",
+      "durationSec": 8.232
+    },
+    {
+      "index": 6,
+      "text": "चुपचाप. पर्याप्त समय लो।",
+      "file": "c006.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 7,
+      "text": "[विराम:45]",
+      "file": "c007.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 8,
+      "text": "चार चीज़ों के नाम बताइए जिन्हें आप महसूस कर सकते हैं या छू सकते हैं।",
+      "file": "c008.ogg",
+      "durationSec": 11.256
+    },
+    {
+      "index": 9,
+      "text": "कपड़े। कुर्सी। त्वचा पर हवा. पैर फर्श पर.",
+      "file": "c009.ogg",
+      "durationSec": 12.264
+    },
+    {
+      "index": 10,
+      "text": "[विराम:39]",
+      "file": "c010.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 11,
+      "text": "तीन ध्वनियों के नाम बताइए।",
+      "file": "c011.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 12,
+      "text": "नज़दीक या दूर। नरम या साफ़.",
+      "file": "c012.ogg",
+      "durationSec": 7.536
+    },
+    {
+      "index": 13,
+      "text": "[विराम:39]",
+      "file": "c013.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 14,
+      "text": "दो गंधों के नाम बताएं, या बस हवा की गुणवत्ता पर ध्यान दें।",
+      "file": "c014.ogg",
+      "durationSec": 9.912
+    },
+    {
+      "index": 15,
+      "text": "[विराम:28]",
+      "file": "c015.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 16,
+      "text": "किसी एक स्वाद या मुँह के अंदर की अनुभूति का नाम बताइए।",
+      "file": "c016.ogg",
+      "durationSec": 8.832
+    },
+    {
+      "index": 17,
+      "text": "[विराम:23]",
+      "file": "c017.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 18,
+      "text": "आप यहां हैं। इस शरीर में. इस कमरे में.",
+      "file": "c018.ogg",
+      "durationSec": 9.6
+    },
+    {
+      "index": 19,
+      "text": "चार तक सांस लें।",
+      "file": "c019.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 20,
+      "text": "छह रन पर आउट.",
+      "file": "c020.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 21,
+      "text": "[विराम:23]",
+      "file": "c021.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 22,
+      "text": "एक और आसान साँस लें.",
+      "file": "c022.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 23,
+      "text": "उँगलियाँ हिलाओ.",
+      "file": "c023.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 24,
+      "text": "जब आप तैयार हों तो आँखें खोलें।",
+      "file": "c024.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 25,
+      "text": "इसमें से थोड़ा सा अपने साथ ले जाओ.",
+      "file": "c025.ogg",
+      "durationSec": 6.504
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "quit-smoking-clear-5",
+  "voiceId": "hi-swara",
+  "edgeVoice": "hi-IN-SwaraNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 298,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "स्वागत है।",
+      "file": "c000.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 1,
+      "text": "यह स्पष्ट सांस का एक अभ्यास है।",
+      "file": "c001.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 2,
+      "text": "एक आरामदायक बैठक ढूंढें, या अगर यह बेहतर लगे तो लेट जाएं।",
+      "file": "c002.ogg",
+      "durationSec": 11.016
+    },
+    {
+      "index": 3,
+      "text": "हाथों को आराम से रखें।",
+      "file": "c003.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 4,
+      "text": "आंखों को नरम करें, या बंद करें।",
+      "file": "c004.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 5,
+      "text": "नाक के माध्यम से धीरे-धीरे सांस लें।",
+      "file": "c005.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 6,
+      "text": "और लंबी सांस बाहर निकालें।",
+      "file": "c006.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 7,
+      "text": "[विराम:10]",
+      "file": "c007.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 8,
+      "text": "हवा को जैसी है, उसे ध्यान में रखें।",
+      "file": "c008.ogg",
+      "durationSec": 6.576
+    },
+    {
+      "index": 9,
+      "text": "श्वास लेते समय ठंडी।",
+      "file": "c009.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 10,
+      "text": "श्वास छोड़ते समय गर्म।",
+      "file": "c010.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 11,
+      "text": "कोई धुआं नहीं। कोई जहर नहीं। सिर्फ सांस।",
+      "file": "c011.ogg",
+      "durationSec": 11.112
+    },
+    {
+      "index": 12,
+      "text": "[विराम:12]",
+      "file": "c012.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 13,
+      "text": "बिना प्रयास के छाती के फैलने का अनुभव करें।",
+      "file": "c013.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 14,
+      "text": "पसलियों के थोड़ा चौड़ा होने का अनुभव करें।",
+      "file": "c014.ogg",
+      "durationSec": 7.248
+    },
+    {
+      "index": 15,
+      "text": "[विराम:12]",
+      "file": "c015.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 16,
+      "text": "हृदय पर एक हाथ रखें, या दोनों हाथों को लाप पर रखें।",
+      "file": "c016.ogg",
+      "durationSec": 9.192
+    },
+    {
+      "index": 17,
+      "text": "एक शरीर की अनुभूति जो ठीक हो रहा है।",
+      "file": "c017.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 18,
+      "text": "फेफड़े साफ हो रहे हैं। रक्त अधिक स्वच्छ हो रहा है। सूंघने की अनुभूति दिन प्रतिदिन लौट रही है।",
+      "file": "c018.ogg",
+      "durationSec": 16.584
+    },
+    {
+      "index": 19,
+      "text": "[विराम:16]",
+      "file": "c019.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 20,
+      "text": "मौन रूप से इन वाक्यों का प्रयास करें, या बस सुनें।",
+      "file": "c020.ogg",
+      "durationSec": 8.448
+    },
+    {
+      "index": 21,
+      "text": "मेरी सांस मेरी है।",
+      "file": "c021.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 22,
+      "text": "[विराम:12]",
+      "file": "c022.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 23,
+      "text": "मैं साफ हवा का चयन करता हूँ।",
+      "file": "c023.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 24,
+      "text": "[विराम:12]",
+      "file": "c024.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 25,
+      "text": "मैं उस जहर के साथ खत्म हो गया हूँ।",
+      "file": "c025.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 26,
+      "text": "[विराम:14]",
+      "file": "c026.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 27,
+      "text": "अपने अगले सामान्य क्षण की कल्पना करें जिसमें सिगरेट न हो।",
+      "file": "c027.ogg",
+      "durationSec": 10.008
+    },
+    {
+      "index": 28,
+      "text": "कॉफी। एक सैर। भोजन के बाद एक विराम।",
+      "file": "c028.ogg",
+      "durationSec": 10.584
+    },
+    {
+      "index": 29,
+      "text": "उस क्षण में खुद को पूर्ण देखें, पहले से ही मुक्त।",
+      "file": "c029.ogg",
+      "durationSec": 8.28
+    },
+    {
+      "index": 30,
+      "text": "[विराम:22]",
+      "file": "c030.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 31,
+      "text": "अगर धूम्रपान की याद आए, तो उसे एक चित्र बनने दें, न कि एक योजना।",
+      "file": "c031.ogg",
+      "durationSec": 12.312
+    },
+    {
+      "index": 32,
+      "text": "इस श्वास में वापस आएं।",
+      "file": "c032.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 33,
+      "text": "इस उच्छवास में वापस आएं।",
+      "file": "c033.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 34,
+      "text": "[विराम:14]",
+      "file": "c034.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 35,
+      "text": "मुक्ति में सांस लें।",
+      "file": "c035.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 36,
+      "text": "पुरानी आदत की कहानी को बाहर निकालें।",
+      "file": "c036.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 37,
+      "text": "[विराम:14]",
+      "file": "c037.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 38,
+      "text": "आपने वह निर्णय लिया जो मायने रखता है।",
+      "file": "c038.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 39,
+      "text": "आपका शरीर उस सत्य के साथ आ रहा है।",
+      "file": "c039.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 40,
+      "text": "[विराम:12]",
+      "file": "c040.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 41,
+      "text": "एक और स्पष्ट सांस लें।",
+      "file": "c041.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 42,
+      "text": "और एक लंबी, आसान सांस बाहर निकालें।",
+      "file": "c042.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 43,
+      "text": "उंगलियों को हिलाएं।",
+      "file": "c043.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 44,
+      "text": "जब आप तैयार महसूस करें, तो आंखें खोलें।",
+      "file": "c044.ogg",
+      "durationSec": 8.136
+    },
+    {
+      "index": 45,
+      "text": "इस स्पष्ट हवा को अपने साथ ले जाएं।",
+      "file": "c045.ogg",
+      "durationSec": 6.648
+    }
+  ]
+}

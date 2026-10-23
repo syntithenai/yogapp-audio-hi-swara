@@ -1,0 +1,142 @@
+{
+  "id": "post-practice-5",
+  "voiceId": "hi-swara",
+  "edgeVoice": "hi-IN-SwaraNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 117,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "स्वागत।",
+      "file": "c000.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 1,
+      "text": "आपने अभ्यास किया है. अब शरीर को इसे ग्रहण करने दें।",
+      "file": "c001.ogg",
+      "durationSec": 10.008
+    },
+    {
+      "index": 2,
+      "text": "आराम से लेटें या बैठें।",
+      "file": "c002.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 3,
+      "text": "आँखें बंद कर लो.",
+      "file": "c003.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 4,
+      "text": "[विराम:31]",
+      "file": "c004.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 5,
+      "text": "गर्मी, कंपन, या शांत थकान के लिए स्कैन करें।",
+      "file": "c005.ogg",
+      "durationSec": 9.264
+    },
+    {
+      "index": 6,
+      "text": "कोई ग्रेडिंग नहीं. जरा गौर करें.",
+      "file": "c006.ogg",
+      "durationSec": 7.848
+    },
+    {
+      "index": 7,
+      "text": "[विराम:45]",
+      "file": "c007.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 8,
+      "text": "लंबी सांस छोड़ें.",
+      "file": "c008.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 9,
+      "text": "दोबारा।",
+      "file": "c009.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 10,
+      "text": "[विराम:38]",
+      "file": "c010.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 11,
+      "text": "दिखाने के लिए शरीर को धन्यवाद।",
+      "file": "c011.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 12,
+      "text": "[विराम:31]",
+      "file": "c012.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 13,
+      "text": "प्रयास को फर्श पर बहने दें।",
+      "file": "c013.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 14,
+      "text": "[विराम:45]",
+      "file": "c014.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 15,
+      "text": "एक स्पष्ट साँस अंदर.",
+      "file": "c015.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 16,
+      "text": "एक पूरी साँस बाहर छोड़ें।",
+      "file": "c016.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 17,
+      "text": "[विराम:38]",
+      "file": "c017.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 18,
+      "text": "एक और आसान साँस लें.",
+      "file": "c018.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 19,
+      "text": "उँगलियाँ हिलाओ.",
+      "file": "c019.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 20,
+      "text": "जब आप तैयार हों तो आँखें खोलें।",
+      "file": "c020.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 21,
+      "text": "इसमें से थोड़ा सा अपने साथ ले जाओ.",
+      "file": "c021.ogg",
+      "durationSec": 6.504
+    }
+  ]
+}

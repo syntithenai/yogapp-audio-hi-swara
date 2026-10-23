@@ -1,0 +1,250 @@
+{
+  "id": "self-compassion-10",
+  "voiceId": "hi-swara",
+  "edgeVoice": "hi-IN-SwaraNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 229,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "स्वागत।",
+      "file": "c000.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 1,
+      "text": "आने के लिए समय निकालें.",
+      "file": "c001.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 2,
+      "text": "सहारा लेकर बैठें या लेटें।",
+      "file": "c002.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 3,
+      "text": "अगर सुरक्षित महसूस हो तो आंखें बंद कर लें।",
+      "file": "c003.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 4,
+      "text": "जमीन के साथ संपर्क महसूस करें.",
+      "file": "c004.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 5,
+      "text": "धीमी गति से सांस अंदर लें.",
+      "file": "c005.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 6,
+      "text": "लंबी सांस छोड़ें.",
+      "file": "c006.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 7,
+      "text": "[विराम:26]",
+      "file": "c007.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 8,
+      "text": "दोबारा।",
+      "file": "c008.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 9,
+      "text": "[विराम:26]",
+      "file": "c009.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 10,
+      "text": "कंधों को झुक जाने दो.",
+      "file": "c010.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 11,
+      "text": "पेट को नरम होने दें.",
+      "file": "c011.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 12,
+      "text": "[विराम:32]",
+      "file": "c012.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 13,
+      "text": "दिल पर हाथ रखो, अगर इससे मदद मिले।",
+      "file": "c013.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 14,
+      "text": "बिना किसी निर्णय के अपनी स्थिति पर ध्यान दें।",
+      "file": "c014.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 15,
+      "text": "[विराम:32]",
+      "file": "c015.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 16,
+      "text": "यह पीड़ा का क्षण है, या सामान्य मानवीय तनाव का।",
+      "file": "c016.ogg",
+      "durationSec": 8.784
+    },
+    {
+      "index": 17,
+      "text": "ऐसा दूसरों को भी लगता है.",
+      "file": "c017.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 18,
+      "text": "[विराम:39]",
+      "file": "c018.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 19,
+      "text": "क्या मैं इस क्षण में अपने प्रति दयालु हो सकता हूँ?",
+      "file": "c019.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 20,
+      "text": "[विराम:32]",
+      "file": "c020.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 21,
+      "text": "क्या मैं खुद को वैसे ही स्वीकार कर सकता हूं जैसे मैं हूं.",
+      "file": "c021.ogg",
+      "durationSec": 9.072
+    },
+    {
+      "index": 22,
+      "text": "[विराम:32]",
+      "file": "c022.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 23,
+      "text": "क्या मैं अपने आप को वह करुणा दे सकता हूँ जिसकी मुझे आवश्यकता है।",
+      "file": "c023.ogg",
+      "durationSec": 10.224
+    },
+    {
+      "index": 24,
+      "text": "[विराम:39]",
+      "file": "c024.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 25,
+      "text": "उन वाक्यांशों को दोहराएँ जो उतरते हैं। जो नहीं करते उन्हें छोड़ दो।",
+      "file": "c025.ogg",
+      "durationSec": 11.256
+    },
+    {
+      "index": 26,
+      "text": "[विराम:52]",
+      "file": "c026.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 27,
+      "text": "एक बुद्धिमान मित्र के रूप में स्वयं से बात करने की कल्पना करें।",
+      "file": "c027.ogg",
+      "durationSec": 9.432
+    },
+    {
+      "index": 28,
+      "text": "वे किस स्वर का प्रयोग करेंगे?",
+      "file": "c028.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 29,
+      "text": "अब अपने आप को वह स्वर प्रदान करें।",
+      "file": "c029.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 30,
+      "text": "[विराम:65]",
+      "file": "c030.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 31,
+      "text": "दयालुता की सांस लें.",
+      "file": "c031.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 32,
+      "text": "कठोरता से साँस छोड़ें।",
+      "file": "c032.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 33,
+      "text": "[विराम:78]",
+      "file": "c033.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 34,
+      "text": "[विराम:39]",
+      "file": "c034.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 35,
+      "text": "श्वास को गहरा करना शुरू करें।",
+      "file": "c035.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 36,
+      "text": "कमरे को फिर से महसूस करो.",
+      "file": "c036.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 37,
+      "text": "उँगलियाँ और पैर की उँगलियाँ हिलाएँ।",
+      "file": "c037.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 38,
+      "text": "तैयार होने पर आँखें खोलें।",
+      "file": "c038.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 39,
+      "text": "आगे जो आता है उसमें धीरे-धीरे आगे बढ़ें।",
+      "file": "c039.ogg",
+      "durationSec": 7.296
+    }
+  ]
+}

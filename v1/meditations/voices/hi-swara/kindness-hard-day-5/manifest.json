@@ -1,0 +1,172 @@
+{
+  "id": "kindness-hard-day-5",
+  "voiceId": "hi-swara",
+  "edgeVoice": "hi-IN-SwaraNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 158,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "स्वागत।",
+      "file": "c000.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 1,
+      "text": "एक आरामदायक सीट ढूंढें, या यदि बेहतर लगे तो लेट जाएं।",
+      "file": "c001.ogg",
+      "durationSec": 10.368
+    },
+    {
+      "index": 2,
+      "text": "हाथों को आराम दें.",
+      "file": "c002.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 3,
+      "text": "आँखें नरम करें, या उन्हें बंद कर लें।",
+      "file": "c003.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 4,
+      "text": "धीरे-धीरे सांस अंदर लें.",
+      "file": "c004.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 5,
+      "text": "और एक लंबी सांस छोड़ें.",
+      "file": "c005.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 6,
+      "text": "आपको यह दिखावा करने की ज़रूरत नहीं है कि यह आसान था।",
+      "file": "c006.ogg",
+      "durationSec": 8.952
+    },
+    {
+      "index": 7,
+      "text": "थकान की सच्चाई को अनुमति दी जाए.",
+      "file": "c007.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 8,
+      "text": "[विराम:31]",
+      "file": "c008.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 9,
+      "text": "सावधानी से सांस लें.",
+      "file": "c009.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 10,
+      "text": "ठीक होने की मांग करते हुए सांस छोड़ें।",
+      "file": "c010.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 11,
+      "text": "[विराम:31]",
+      "file": "c011.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 12,
+      "text": "क्या मैं आज रात अपने प्रति सौम्य रह सकता हूँ?",
+      "file": "c012.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 13,
+      "text": "क्या मैं जैसा हूं वैसा ही आराम कर सकता हूं.",
+      "file": "c013.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 14,
+      "text": "[विराम:31]",
+      "file": "c014.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 15,
+      "text": "हो सकता है कल मैं वही मांगूं जो मैं दे सकता हूं।",
+      "file": "c015.ogg",
+      "durationSec": 8.04
+    },
+    {
+      "index": 16,
+      "text": "[विराम:31]",
+      "file": "c016.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 17,
+      "text": "शरीर को सहारा मिलता हुआ महसूस करें।",
+      "file": "c017.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 18,
+      "text": "इस मिनट में और कुछ नहीं चाहिए.",
+      "file": "c018.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 19,
+      "text": "[विराम:45]",
+      "file": "c019.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 20,
+      "text": "दिल पर हाथ रखो, अगर इससे मदद मिले।",
+      "file": "c020.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 21,
+      "text": "आपने इसे पूरा किया।",
+      "file": "c021.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 22,
+      "text": "[विराम:38]",
+      "file": "c022.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 23,
+      "text": "एक और आसान साँस लें.",
+      "file": "c023.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 24,
+      "text": "उँगलियाँ हिलाओ.",
+      "file": "c024.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 25,
+      "text": "जब आप तैयार हों तो आँखें खोलें।",
+      "file": "c025.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 26,
+      "text": "इसमें से थोड़ा सा अपने साथ ले जाओ.",
+      "file": "c026.ogg",
+      "durationSec": 6.504
+    }
+  ]
+}

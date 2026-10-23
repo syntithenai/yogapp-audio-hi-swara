@@ -1,0 +1,178 @@
+{
+  "id": "self-compassion-5",
+  "voiceId": "hi-swara",
+  "edgeVoice": "hi-IN-SwaraNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 178,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "स्वागत।",
+      "file": "c000.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 1,
+      "text": "एक आरामदायक सीट ढूंढें, या यदि बेहतर लगे तो लेट जाएं।",
+      "file": "c001.ogg",
+      "durationSec": 10.368
+    },
+    {
+      "index": 2,
+      "text": "हाथों को आराम दें.",
+      "file": "c002.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 3,
+      "text": "आँखें नरम करें, या उन्हें बंद कर लें।",
+      "file": "c003.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 4,
+      "text": "धीरे-धीरे सांस अंदर लें.",
+      "file": "c004.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 5,
+      "text": "और एक लंबी सांस छोड़ें.",
+      "file": "c005.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 6,
+      "text": "एक हाथ हृदय पर रखें, या दोनों हाथों को गोद में रखें।",
+      "file": "c006.ogg",
+      "durationSec": 9.024
+    },
+    {
+      "index": 7,
+      "text": "ध्यान दें कि आप कैसे हैं, इसे ठीक किए बिना।",
+      "file": "c007.ogg",
+      "durationSec": 8.784
+    },
+    {
+      "index": 8,
+      "text": "[विराम:31]",
+      "file": "c008.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 9,
+      "text": "यदि संघर्ष है तो इसे स्वीकार करें।",
+      "file": "c009.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 10,
+      "text": "यह कठिनाई का क्षण है.",
+      "file": "c010.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 11,
+      "text": "कठिनाई मानव होने का हिस्सा है।",
+      "file": "c011.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 12,
+      "text": "[विराम:39]",
+      "file": "c012.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 13,
+      "text": "अपने आप को दयालुता की पेशकश वैसे ही करें जैसे आप किसी मित्र को करते हैं।",
+      "file": "c013.ogg",
+      "durationSec": 11.568
+    },
+    {
+      "index": 14,
+      "text": "क्या मैं अपने प्रति दयालु हो सकता हूँ?",
+      "file": "c014.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 15,
+      "text": "क्या मैं अपने आप को वह करुणा दे सकता हूँ जिसकी मुझे आवश्यकता है।",
+      "file": "c015.ogg",
+      "durationSec": 10.224
+    },
+    {
+      "index": 16,
+      "text": "[विराम:39]",
+      "file": "c016.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 17,
+      "text": "फिर धीरे-धीरे.",
+      "file": "c017.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 18,
+      "text": "क्या मैं अपने प्रति दयालु हो सकता हूँ?",
+      "file": "c018.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 19,
+      "text": "क्या मैं अपने आप को वह करुणा दे सकता हूँ जिसकी मुझे आवश्यकता है।",
+      "file": "c019.ogg",
+      "durationSec": 10.224
+    },
+    {
+      "index": 20,
+      "text": "[विराम:45]",
+      "file": "c020.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 21,
+      "text": "दिल पर हाथ रखकर सांस लें, अगर वह वहां है।",
+      "file": "c021.ogg",
+      "durationSec": 7.752
+    },
+    {
+      "index": 22,
+      "text": "[विराम:39]",
+      "file": "c022.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 23,
+      "text": "आपको यह नरमी अर्जित करने की आवश्यकता नहीं है।",
+      "file": "c023.ogg",
+      "durationSec": 7.8
+    },
+    {
+      "index": 24,
+      "text": "एक और आसान साँस लें.",
+      "file": "c024.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 25,
+      "text": "उँगलियाँ हिलाओ.",
+      "file": "c025.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 26,
+      "text": "जब आप तैयार हों तो आँखें खोलें।",
+      "file": "c026.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 27,
+      "text": "इसमें से थोड़ा सा अपने साथ ले जाओ.",
+      "file": "c027.ogg",
+      "durationSec": 6.504
+    }
+  ]
+}

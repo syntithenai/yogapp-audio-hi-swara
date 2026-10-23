@@ -1,0 +1,166 @@
+{
+  "id": "desk-unclench-5",
+  "voiceId": "hi-swara",
+  "edgeVoice": "hi-IN-SwaraNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 143,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "स्वागत।",
+      "file": "c000.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 1,
+      "text": "बैठे रहो. यह काम के मध्य के लिए है.",
+      "file": "c001.ogg",
+      "durationSec": 8.136
+    },
+    {
+      "index": 2,
+      "text": "एक पल के लिए स्क्रीन से नजरें हटा लें।",
+      "file": "c002.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 3,
+      "text": "यदि आप कर सकें तो दूर तक देखें।",
+      "file": "c003.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 4,
+      "text": "[विराम:28]",
+      "file": "c004.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 5,
+      "text": "कंधों को ऊपर, पीछे और नीचे घुमाएँ।",
+      "file": "c005.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 6,
+      "text": "दो बार और.",
+      "file": "c006.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 7,
+      "text": "[विराम:38]",
+      "file": "c007.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 8,
+      "text": "हाथों को खोलें और बंद करें.",
+      "file": "c008.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 9,
+      "text": "इन्हें हल्के से हिलाएं.",
+      "file": "c009.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 10,
+      "text": "[विराम:28]",
+      "file": "c010.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 11,
+      "text": "भौंह को नरम करें.",
+      "file": "c011.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 12,
+      "text": "जबड़ा खोलो. जीभ को आराम दें.",
+      "file": "c012.ogg",
+      "durationSec": 7.8
+    },
+    {
+      "index": 13,
+      "text": "[विराम:38]",
+      "file": "c013.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 14,
+      "text": "पसलियों के किनारों में श्वास लें।",
+      "file": "c014.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 15,
+      "text": "सांस छोड़ें और छाती को स्थिर होने दें।",
+      "file": "c015.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 16,
+      "text": "[विराम:38]",
+      "file": "c016.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 17,
+      "text": "तीन बार धीरे-धीरे पलकें झपकाएँ।",
+      "file": "c017.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 18,
+      "text": "[विराम:28]",
+      "file": "c018.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 19,
+      "text": "एक और पूरी साँस.",
+      "file": "c019.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 20,
+      "text": "तैयार होने पर वापस लौटें, थोड़ा कम मजबूत।",
+      "file": "c020.ogg",
+      "durationSec": 8.208
+    },
+    {
+      "index": 21,
+      "text": "[विराम:28]",
+      "file": "c021.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 22,
+      "text": "एक और आसान साँस लें.",
+      "file": "c022.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 23,
+      "text": "उँगलियाँ हिलाओ.",
+      "file": "c023.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 24,
+      "text": "जब आप तैयार हों तो आँखें खोलें।",
+      "file": "c024.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 25,
+      "text": "सहजता को अगले कार्य पर वापस ले जाएँ।",
+      "file": "c025.ogg",
+      "durationSec": 7.08
+    }
+  ]
+}

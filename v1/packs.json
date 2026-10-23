@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "hi-swara.zip", "bytes": 70043776, "sha256": "793f7622d5aed383a02f05917380ae476de03812d63d72ef078e65997c095266"}
+  ]
+}

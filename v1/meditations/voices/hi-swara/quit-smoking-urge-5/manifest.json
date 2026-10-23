@@ -1,0 +1,286 @@
+{
+  "id": "quit-smoking-urge-5",
+  "voiceId": "hi-swara",
+  "edgeVoice": "hi-IN-SwaraNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 290,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "स्वागत है।",
+      "file": "c000.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 1,
+      "text": "यदि एक इच्छा यहाँ है, तो आप सही जगह पर हैं।",
+      "file": "c001.ogg",
+      "durationSec": 8.232
+    },
+    {
+      "index": 2,
+      "text": "आपको इससे लड़ने या इसे बढ़ाने की आवश्यकता नहीं है।",
+      "file": "c002.ogg",
+      "durationSec": 8.688
+    },
+    {
+      "index": 3,
+      "text": "एक स्थिर बैठक ढूंढें, या दोनों पैरों को जमीन पर रखकर खड़े हो जाएं।",
+      "file": "c003.ogg",
+      "durationSec": 11.52
+    },
+    {
+      "index": 4,
+      "text": "आंखों को नरम करें, या एक नरम दृष्टि बनाए रखें।",
+      "file": "c004.ogg",
+      "durationSec": 8.64
+    },
+    {
+      "index": 5,
+      "text": "धीरे से एक सांस लें।",
+      "file": "c005.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 6,
+      "text": "और एक लंबी सांस बाहर निकालें।",
+      "file": "c006.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 7,
+      "text": "[विराम:12]",
+      "file": "c007.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 8,
+      "text": "जो हो रहा है, उसका नाम बस बताएं।",
+      "file": "c008.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 9,
+      "text": "एक इच्छा उपस्थित है।",
+      "file": "c009.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 10,
+      "text": "यह शरीर और मन में एक लहर है।",
+      "file": "c010.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 11,
+      "text": "यह एक आदेश नहीं है।",
+      "file": "c011.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 12,
+      "text": "[विराम:14]",
+      "file": "c012.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 13,
+      "text": "ध्यान दें कि आप इसे कहाँ महसूस करते हैं।",
+      "file": "c013.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 14,
+      "text": "छाती। गला। हाथ। बेचैनी।",
+      "file": "c014.ogg",
+      "durationSec": 11.136
+    },
+    {
+      "index": 15,
+      "text": "इसे बड़ा बनाने की आवश्यकता नहीं है। बस इसे पहचानें।",
+      "file": "c015.ogg",
+      "durationSec": 10.32
+    },
+    {
+      "index": 16,
+      "text": "[विराम:16]",
+      "file": "c016.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 17,
+      "text": "उस स्थान में सांस लें।",
+      "file": "c017.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 18,
+      "text": "नरम स्थान में श्वास लें।",
+      "file": "c018.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 19,
+      "text": "कार्य किए बिना सांस छोड़ें।",
+      "file": "c019.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 20,
+      "text": "[विराम:16]",
+      "file": "c020.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 21,
+      "text": "इच्छाएँ उठती हैं, चरम पर पहुँचती हैं और गिरती हैं।",
+      "file": "c021.ogg",
+      "durationSec": 8.784
+    },
+    {
+      "index": 22,
+      "text": "आप तट हैं। लहर गुजरती है।",
+      "file": "c022.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 23,
+      "text": "[विराम:18]",
+      "file": "c023.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 24,
+      "text": "अगर मन एक सिगरेट की आवश्यकता के बारे में कहानी पेश करे, तो उसे धन्यवाद दें और वापस लौटें।",
+      "file": "c024.ogg",
+      "durationSec": 14.472
+    },
+    {
+      "index": 25,
+      "text": "सांस पर वापस लौटें।",
+      "file": "c025.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 26,
+      "text": "फर्श पर पैरों पर वापस लौटें।",
+      "file": "c026.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 27,
+      "text": "[विराम:16]",
+      "file": "c027.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 28,
+      "text": "यदि मदद मिले तो चुपचाप।",
+      "file": "c028.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 29,
+      "text": "यह अस्थायी है।",
+      "file": "c029.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 30,
+      "text": "मैं धूम्रपान किए बिना इसे ले जा सकता हूँ।",
+      "file": "c030.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 31,
+      "text": "[विराम:18]",
+      "file": "c031.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 32,
+      "text": "फिर से। नरम श्वास लें।",
+      "file": "c032.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 33,
+      "text": "लंबी सांस छोड़ें।",
+      "file": "c033.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 34,
+      "text": "[विराम:16]",
+      "file": "c034.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 35,
+      "text": "किसी भी आराम को ध्यान में रखें, भले ही थोड़ा हो।",
+      "file": "c035.ogg",
+      "durationSec": 8.568
+    },
+    {
+      "index": 36,
+      "text": "या ध्यान दें कि आप अपने साथ रहे।",
+      "file": "c036.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 37,
+      "text": "दोनों गिने जाते हैं।",
+      "file": "c037.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 38,
+      "text": "[विराम:16]",
+      "file": "c038.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 39,
+      "text": "आप एक गैर-धूम्रपान करने वाले हैं जो पुरानी गूंगी गूंगी के सामने आ रहे हैं।",
+      "file": "c039.ogg",
+      "durationSec": 11.256
+    },
+    {
+      "index": 40,
+      "text": "इच्छा आ सकती है। वह आपका मालिक नहीं बन सकती।",
+      "file": "c040.ogg",
+      "durationSec": 9.288
+    },
+    {
+      "index": 41,
+      "text": "[विराम:14]",
+      "file": "c041.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 42,
+      "text": "एक और आसान सांस लें।",
+      "file": "c042.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 43,
+      "text": "उंगलियों को हिलाएं।",
+      "file": "c043.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 44,
+      "text": "जब आप तैयार हों, तो आंखें खोलें।",
+      "file": "c044.ogg",
+      "durationSec": 6.936
+    },
+    {
+      "index": 45,
+      "text": "अपना दिन मुक्त रूप से जारी रखें।",
+      "file": "c045.ogg",
+      "durationSec": 6.048
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "id": "compassion-circle-20",
+  "voiceId": "hi-swara",
+  "edgeVoice": "hi-IN-SwaraNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 349,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "स्वागत।",
+      "file": "c000.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 1,
+      "text": "आने के लिए समय निकालें.",
+      "file": "c001.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 2,
+      "text": "सहारा लेकर बैठें या लेटें।",
+      "file": "c002.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 3,
+      "text": "अगर सुरक्षित महसूस हो तो आंखें बंद कर लें।",
+      "file": "c003.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 4,
+      "text": "जमीन के साथ संपर्क महसूस करें.",
+      "file": "c004.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 5,
+      "text": "धीमी गति से सांस अंदर लें.",
+      "file": "c005.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 6,
+      "text": "लंबी सांस छोड़ें.",
+      "file": "c006.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 7,
+      "text": "[विराम:27]",
+      "file": "c007.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 8,
+      "text": "दोबारा।",
+      "file": "c008.ogg",
+      "durationSec": 3.048
+    },
+    {
+      "index": 9,
+      "text": "[विराम:27]",
+      "file": "c009.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 10,
+      "text": "कंधों को झुक जाने दो.",
+      "file": "c010.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 11,
+      "text": "पेट को नरम होने दें.",
+      "file": "c011.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 12,
+      "text": "[विराम:34]",
+      "file": "c012.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 13,
+      "text": "हम एक विस्तृत दायरे में दयालुता की पेशकश करेंगे।",
+      "file": "c013.ogg",
+      "durationSec": 8.232
+    },
+    {
+      "index": 14,
+      "text": "वाक्यांश आमंत्रण हैं, आदेश नहीं.",
+      "file": "c014.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 15,
+      "text": "[विराम:34]",
+      "file": "c015.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 16,
+      "text": "अपने प्रति.",
+      "file": "c016.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 17,
+      "text": "क्या मैं सुरक्षित रह सकता हूँ?",
+      "file": "c017.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 18,
+      "text": "[विराम:27]",
+      "file": "c018.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 19,
+      "text": "मैं ठीक हो जाऊं.",
+      "file": "c019.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 20,
+      "text": "[विराम:27]",
+      "file": "c020.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 21,
+      "text": "मैं आराम से रह सकूं.",
+      "file": "c021.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 22,
+      "text": "[विराम:41]",
+      "file": "c022.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 23,
+      "text": "फिर धीरे-धीरे.",
+      "file": "c023.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 24,
+      "text": "क्या मैं सुरक्षित रह सकता हूँ?",
+      "file": "c024.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 25,
+      "text": "मैं ठीक हो जाऊं.",
+      "file": "c025.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 26,
+      "text": "मैं आराम से रह सकूं.",
+      "file": "c026.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 27,
+      "text": "[विराम:69]",
+      "file": "c027.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 28,
+      "text": "किसी मित्र या किसी ऐसे व्यक्ति का ध्यान रखें जिसकी देखभाल करना आसान हो।",
+      "file": "c028.ogg",
+      "durationSec": 12.168
+    },
+    {
+      "index": 29,
+      "text": "आप सुरक्षित रहें.",
+      "file": "c029.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 30,
+      "text": "[विराम:27]",
+      "file": "c030.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 31,
+      "text": "आप स्वस्थ रहें.",
+      "file": "c031.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 32,
+      "text": "[विराम:27]",
+      "file": "c032.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 33,
+      "text": "आप आराम से रहें.",
+      "file": "c033.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 34,
+      "text": "[विराम:69]",
+      "file": "c034.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 35,
+      "text": "किसी तटस्थ व्यक्ति का स्मरण करें। कोई ऐसा व्यक्ति जिसे आप बमुश्किल जानते हों।",
+      "file": "c035.ogg",
+      "durationSec": 13.728
+    },
+    {
+      "index": 36,
+      "text": "आप सुरक्षित रहें.",
+      "file": "c036.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 37,
+      "text": "आप स्वस्थ रहें.",
+      "file": "c037.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 38,
+      "text": "आप आराम से रहें.",
+      "file": "c038.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 39,
+      "text": "[विराम:69]",
+      "file": "c039.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 40,
+      "text": "यदि यह संभव लगता है, तो किसी कठिन, हल्के ढंग से शामिल करें।",
+      "file": "c040.ogg",
+      "durationSec": 11.304
+    },
+    {
+      "index": 41,
+      "text": "या फिर अपने पास लौट आओ अगर वह आज समझदार है।",
+      "file": "c041.ogg",
+      "durationSec": 8.232
+    },
+    {
+      "index": 42,
+      "text": "आप कष्टों से मुक्त हो जाएं.",
+      "file": "c042.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 43,
+      "text": "[विराम:55]",
+      "file": "c043.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 44,
+      "text": "निकट और दूर सभी प्राणियों तक विस्तृत हो जाओ।",
+      "file": "c044.ogg",
+      "durationSec": 7.656
+    },
+    {
+      "index": 45,
+      "text": "सभी प्राणी सुरक्षित रहें.",
+      "file": "c045.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 46,
+      "text": "[विराम:34]",
+      "file": "c046.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 47,
+      "text": "जो शुरु हो वह अच्छे से बीते।",
+      "file": "c047.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 48,
+      "text": "[विराम:34]",
+      "file": "c048.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 49,
+      "text": "सभी प्राणी सुखपूर्वक रहें।",
+      "file": "c049.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 50,
+      "text": "[विराम:82]",
+      "file": "c050.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 51,
+      "text": "अपने शरीर और सांस पर लौटें।",
+      "file": "c051.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 52,
+      "text": "वाक्यांशों के बाद की चमक में आराम करें।",
+      "file": "c052.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 53,
+      "text": "[विराम:150]",
+      "file": "c053.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 54,
+      "text": "जबरदस्ती करने जैसी कोई बात नहीं. कोमलता ही काफी है.",
+      "file": "c054.ogg",
+      "durationSec": 10.872
+    },
+    {
+      "index": 55,
+      "text": "[विराम:137]",
+      "file": "c055.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 56,
+      "text": "[विराम:41]",
+      "file": "c056.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 57,
+      "text": "श्वास को गहरा करना शुरू करें।",
+      "file": "c057.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 58,
+      "text": "यहीं आराम करो.",
+      "file": "c058.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 59,
+      "text": "[विराम:26]",
+      "file": "c059.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 60,
+      "text": "कमरे को फिर से महसूस करो.",
+      "file": "c060.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 61,
+      "text": "उँगलियाँ और पैर की उँगलियाँ हिलाएँ।",
+      "file": "c061.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 62,
+      "text": "तैयार होने पर आँखें खोलें।",
+      "file": "c062.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 63,
+      "text": "आगे जो आता है उसमें धीरे-धीरे आगे बढ़ें।",
+      "file": "c063.ogg",
+      "durationSec": 7.296
+    }
+  ]
+}
